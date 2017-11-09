@@ -1,3 +1,7 @@
 Test demo file
+
 modificato nel branchmodificato nel master
 altra mod nel master
+=======
+modificato nel branch
+altra modifica nel branch
